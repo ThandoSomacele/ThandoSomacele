@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThandoSomacele
-- 👀 I’m interested in the AI field.
+- 👀 I’m interested in the On Demand Service apps and the AI field.
 - 🌱 I’m currently learning REACT to add to my VanillaJS and NodeJS programming skills.
 - 💞️ I’m looking to collaborate on 'On Demand Apps' and text to out AI projects.
 - 📫 How to reach me tsomacele@icloud.com
